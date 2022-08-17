@@ -20,7 +20,7 @@ global.APIKeys = {
 //customize settings\\
 
 global.alivemsg = `❑සුනෙත් offline but ඔහුගේ සහකාරු වන මම online 😜´
-`My Creator is Suneth MD` //Costomize Alive Message (type your message in `` )
+`My Creator is suneth` //Costomize Alive Message (type your message in `` )
 
 global.owner = ['+94770378874'] //Owner number in aive msg
 global.premium = ['+94770378874'] //Owner Number info
@@ -29,7 +29,7 @@ global.ownernomer = '+94770378874' //Owner Number <<<
 global.ownername = '❤SUNETH MD' //Owner Name
 global.botname = ' ❑☬RED༒DRAGON࿐⚙️' //Bot Name
 
-global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
+global.button = '💔☰ GITHUB ☰💔' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
@@ -39,8 +39,8 @@ global.author = '❑SUNETH MD❯❯' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
-global.dragonemoji = '🧩' // Menu emoji
-global.footer = '©_Kumuthu.' //In list menu
+global.dragonemoji = '💔' // Menu emoji
+global.footer = '©_suneth' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
 global.ig = 'https://github.com/prabhasha2006' //Github Account!
@@ -54,7 +54,7 @@ global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
     bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
+    wait: '👉👈Pleas Wait... ටිකක් ඉන්න',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
